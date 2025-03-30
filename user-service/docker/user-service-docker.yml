@@ -1,1 +1,5 @@
-test:test
+spring:
+  datasource:
+    url: jdbc:postgresql://demo-db:5432/users
+    username: postgres
+    password: postgres
