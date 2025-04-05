@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: jdbc:postgresql://company-demo-db:5432/employee-accounting
+    url: jdbc:postgresql://company-demo-db:5432/postgres
     username: postgres
     password: postgres
